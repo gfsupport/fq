@@ -16,7 +16,7 @@
 |        赛风         |         [psiphon3](https://psiphon3.com/zh/download.html)        |                 |         [Psiphon Pro](https://play.google.com/store/apps/details?id=com.psiphon3.subscription)        |        [Psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)         |           [用户指南](https://psiphon3.com/zh/user-guide.html)           |
 |        VPN Gate Client         |        [VPN Gate Client](http://www.vpngate.net/cn/download.aspx)         |                 |                 |                 |                 |
 |        GoAgentXGoAgentX         |                 |       [GoAgentXGoAgentX](https://github.com/chenowen/GoAgentX-1)          |                 |                 |                 |
-
+|        自由浏览         |                 |                 |        [自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk)          |                 |                 |
 
 
 ### 失效
